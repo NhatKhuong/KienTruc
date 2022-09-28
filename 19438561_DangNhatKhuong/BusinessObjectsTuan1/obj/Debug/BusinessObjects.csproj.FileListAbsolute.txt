@@ -1,0 +1,5 @@
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\BusinessObjects\obj\Debug\BusinessObjects.pdb

@@ -1,0 +1,10 @@
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Receiver.exe.config
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Receiver.exe
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Receiver.pdb
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Apache.NMS.dll
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Apache.NMS.pdb
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\19438561_DangNhatKhuong\Receiver\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\19438561_DangNhatKhuong\Receiver\obj\Debug\Receiver.exe
+T:\19438561_DangNhatKhuong\Receiver\obj\Debug\Receiver.pdb

@@ -1,0 +1,11 @@
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\bin\Debug\BusinessObjects.dll
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\bin\Debug\BusinessObjects.pdb
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.F_MessageSender.resources
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb

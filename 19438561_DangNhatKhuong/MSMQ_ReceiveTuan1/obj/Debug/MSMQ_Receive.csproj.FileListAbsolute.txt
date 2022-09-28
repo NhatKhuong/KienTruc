@@ -1,0 +1,11 @@
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\bin\Debug\MSMQ_Receive.pdb
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\bin\Debug\BusinessObjects.dll
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\bin\Debug\BusinessObjects.pdb
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.csprojResolveAssemblyReference.cache
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.F_MessageReceive.resources
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.Properties.Resources.resources
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.csproj.GenerateResource.Cache
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
+D:\NHATKHUONG\KienTrucPhamMem\Lap1\KienTrucPM1\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb

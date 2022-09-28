@@ -1,0 +1,11 @@
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\SenderTuan3.exe.config
+T:\19438561_DangNhatKhuong\SenderTuan3\obj\Debug\SenderTuan3.csprojResolveAssemblyReference.cache
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\SenderTuan3.exe
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\SenderTuan3.pdb
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\Apache.NMS.dll
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\Apache.NMS.pdb
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\19438561_DangNhatKhuong\SenderTuan3\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\19438561_DangNhatKhuong\SenderTuan3\obj\Debug\SenderTuan3.exe
+T:\19438561_DangNhatKhuong\SenderTuan3\obj\Debug\SenderTuan3.pdb
